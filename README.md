@@ -132,8 +132,8 @@ RESTful API Design
 Sample Transfer Request
 
 {
-  "fromAccountNumber": "ACC1001",
-  "toAccountNumber": "ACC1002",
+  "fromAccountNumber": "72758792922",
+  "toAccountNumber": "90862200914",
   "amount": 1000
 }
 
@@ -141,7 +141,7 @@ Getting Started
 
 Clone Repository
 
-git clone https://github.com/your-username/secure-banking-backend-api.git
+git clone https://github.com/codeByGauravv/secure-banking-backend-api.git
 
 Configure PostgreSQL
 
