@@ -1,5 +1,5 @@
 # banking-api-Springboot
-12:28 AM
+
 A secure and scalable Banking Backend Application built using Spring Boot, Spring Security, JWT Authentication, Spring Data JPA, Hibernate, and PostgreSQL.
 
 Features
