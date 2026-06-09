@@ -68,7 +68,6 @@ Hibernate
 PostgreSQL
 Maven
 Lombok
-Swagger / OpenAPI
 Postman
 Git & GitHub
 
@@ -79,6 +78,7 @@ Method
 Endpoint
 POST
 /auth/register
+
 POST
 /auth/login
 Account APIs
